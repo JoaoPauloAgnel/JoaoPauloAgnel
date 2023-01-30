@@ -5,7 +5,6 @@
 [![Site](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]()
 
 [![Joao Paulo GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoaoPauloAgnel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoaoPauloAgnel)
-[![Joao Paulo GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JoaoPauloAgnel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/JoaoPauloAgnel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAgnel&layout=compact)](https://github.com/JoaoPauloAgnel)
 
